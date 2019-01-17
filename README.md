@@ -1,4 +1,4 @@
-# Buffer-Overflow-Analyser# bo-analyser
+# Buffer-Overflow-Analyser
 Static analysis tool to identify buffer overlows and other vulnerabilities in assembly code written in Python 2.
 
 ## Instructions
